@@ -1,0 +1,20 @@
+{
+  "name": "socket.io",
+  "description": "Sockets for the rest of us.",
+  "version": "0.4.1",
+  "author": "LearnBoost",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/LearnBoost/Socket.IO-node/raw/master/README.md"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/LearnBoost/Socket.IO-node.git"
+  },
+  "engine": [ "node >=0.1.90" ],
+  "main": "./lib/socket.io",
+  "directories": {
+    "lib": "./lib"
+  }
+}
+
